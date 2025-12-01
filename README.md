@@ -24,7 +24,7 @@ sudo apt install xclip
 pip install pynput click
 ``
 ``
-git clone https://github.com/InsanceHunterCTF/multiclip.git
+git clone https://github.com/InsaneHunterCTF/multiclip.git
 ``
 ``
 cd multiclip
